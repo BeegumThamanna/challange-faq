@@ -1,0 +1,2 @@
+# challange-faq
+page-faqs
